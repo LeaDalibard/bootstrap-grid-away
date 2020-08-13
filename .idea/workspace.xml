@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30601839-7d0e-4fa3-911e-e57e88d4bc16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,6 +38,9 @@
       <option name="presentableId" value="Default" />
       <updated>1597305125875</updated>
       <workItem from="1597305129100" duration="598000" />
+      <workItem from="1597305812172" duration="994000" />
+      <workItem from="1597306881136" duration="117000" />
+      <workItem from="1597307041340" duration="493000" />
     </task>
     <servers />
   </component>
@@ -44,9 +48,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="100" key="SettingsEditor" timestamp="1597305238714">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597306957056">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1597306957056" />
+    <state x="221" y="79" key="SettingsEditor" timestamp="1597306941308">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="79" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597306941308" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1597305238714" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597307066577">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597307066577" />
   </component>
 </project>
